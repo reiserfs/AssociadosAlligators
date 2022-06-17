@@ -1,0 +1,37 @@
+<nav class="large-3 medium-4 columns" id="actions-sidebar">
+    <ul class="side-nav">
+        <li class="heading"><?= __('Mensalidades') ?></li>
+        <li><?= $this->Html->link(__('Por Associados'), ['action' => 'index']) ?> </li>
+        <li><?= $this->Html->link(__('Todas Mensalidades'), ['action' => 'mens']) ?> </li>
+        <li><?= $this->Html->link(__('Gerar Mensalidades'), ['action' => 'gera']) ?> </li>
+        <li><?= $this->Html->link(__('Listar Mensalidades'), ['action' => 'lista']) ?> </li>
+        <li><?= $this->Html->link(__('Adicionar Mensalidade'), ['action' => 'add']) ?> </li>
+        <li class="heading"><?= __('Planos') ?></li>
+        <li><?= $this->Html->link(__('Novo Plano'), ['controller' => 'plano', 'action' => 'add']) ?> </li>
+        <li><?= $this->Html->link(__('Listar Planos'), ['controller' => 'plano', 'action' => 'index']) ?> </li>
+        <li class="heading"><?= __('Formas de Pagamento') ?></li>
+        <li><?= $this->Html->link(__('Nova Forma de Pagamento'), ['controller' => 'pagamentos', 'action' => 'add']) ?> </li>
+        <li><?= $this->Html->link(__('Formas de Pagamento'), ['controller' => 'pagamentos', 'action' => 'index']) ?> </li>
+        <li class="heading"><?= __('Relatorios') ?></li>
+        <li><?= $this->Html->link(__('Por periodo'), ['action' => 'reper']) ?> </li>
+        <li><?= $this->Html->link(__('Inadimplentes'), ['action' => 'reass']) ?> </li>
+    </ul>
+</nav>
+<div class="mensalidade form large-9 medium-8 columns content">
+    <?= $this->Form->create($mensalidade) ?>
+    <fieldset>
+        <legend><?= __('Edit Mensalidade') ?></legend>
+        <?php
+            echo $this->Form->input('associado_id', ['options' => $associados]);
+            echo $this->Form->input('vencimento');
+            echo $this->Form->input('pago');
+            echo $this->Form->input('valor_base');
+            echo $this->Form->input('desconto');
+            echo $this->Form->input('acressimo');
+            echo $this->Form->input('pagamento_id', ['options' => $pagamentos]);
+            echo $this->Form->input('observacoes');
+        ?>
+    </fieldset>
+    <?= $this->Form->button(__('Submit')) ?>
+    <?= $this->Form->end() ?>
+</div>

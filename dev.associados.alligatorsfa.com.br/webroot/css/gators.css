@@ -1,0 +1,229 @@
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 12px;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #F7FE2E}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.view_associados {
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}
+
+.view_mensalidades {
+ text-align: center;
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}.view_mensalidades_pago {
+    background-color: #008e00;
+ text-align: center;
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}.view_mensalidades_naopago {
+    background-color: #ff0000;
+ text-align: center;
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}
+.view_mensalidades_pago_child {
+    background-color: #008ecc;
+ text-align: center;
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}.view_mensalidades_naopago_child {
+    background-color: #ffccdd;
+ text-align: center;
+ border-top: 1px solid #000000; 
+ border-bottom: 2px solid #000000; 
+ border-left: 1px solid #000000; 
+ border-right: 1px solid #000000; 
+ padding-top: 0cm; 
+ padding-bottom: 0.1cm; 
+ padding-left: 0.1cm; 
+ padding-right: 0cm;
+}
+
+
+
+
+
+.item_nome {
+  font: normal normal bold 26px/1 "Lucida Console", Monaco, monospace;
+//  color: rgba(30,153,16,1);
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.5) ;
+}
+
+.item_tipo {
+  font: normal normal bold 22px/1 "Lucida Console", Monaco, monospace;
+  color: black;
+}
+
+.item_desc {
+  font: normal normal bold 20px/1 "Lucida Console", Monaco, monospace;
+  color: rgba(59,132,0,1);
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.5) ;
+}
+.inventarioBody {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	box-shadow: 10px 10px 5px #888888;
+	border: 1px solid #D80000;	
+}
+
+.inventarioBody td{
+	vertical-align:left;
+	background-color: #1F1401;
+	border: 1px solid #F7F4F4;
+	border-width: 0px 1px 1px 0px;
+	text-align: left;
+	padding: 0px;
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: normal;
+	color: #FFFFFF;	
+}
+.inventarioBody th{
+	vertical-align: middle;
+	background-color: #602C00;
+	border: 1px solid #F7F4F4;
+	border-width: 0px 1px 1px 0px;
+	text-align: center;
+	padding: 0px;
+	font-size: 18px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #FFFFFF;	
+}
+.imgicon {
+	border: 2px solid #F7F4F4;
+	width: 70px;
+	height: 70px;
+	/*+border-radius: 14px;*/
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	-khtml-border-radius: 14px;
+	border-radius: 14px;	
+}
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
+}
+.right_top  {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 16px/1 Impact, Charcoal, sans-serif;
+  color: rgba(225,232,37,1);
+  text-align: right;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-shadow: 0 0 2px rgba(255,255,255, 0.5) ;  
+}
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 0px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}

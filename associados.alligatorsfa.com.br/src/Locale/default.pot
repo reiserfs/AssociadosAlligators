@@ -1,0 +1,1756 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-07-14 19:31+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AssociadosController.php:105;144
+#: Controller/LoginController.php:218
+#: Controller/PerfilController.php:116
+#: Controller/TryoutController.php:95;134
+msgid "The associado could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AssociadosController.php:166
+#: Controller/TryoutController.php:175
+msgid "The associado has been deleted."
+msgstr ""
+
+#: Controller/AssociadosController.php:168
+#: Controller/TryoutController.php:177
+msgid "The associado could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EquipamentosController.php:77;114
+msgid "The equipamento has been saved."
+msgstr ""
+
+#: Controller/EquipamentosController.php:80;117
+msgid "The equipamento could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EquipamentosController.php:137
+msgid "The equipamento has been deleted."
+msgstr ""
+
+#: Controller/EquipamentosController.php:139
+msgid "The equipamento could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/InventarioController.php:76;112
+#: Controller/PerfilController.php:160;196
+msgid "The inventario has been saved."
+msgstr ""
+
+#: Controller/InventarioController.php:79;115
+#: Controller/PerfilController.php:163
+msgid "The inventario could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/InventarioController.php:145
+#: Controller/PerfilController.php:218
+msgid "The inventario has been deleted."
+msgstr ""
+
+#: Controller/InventarioController.php:147
+#: Controller/PerfilController.php:220
+msgid "The inventario could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LogController.php:59;85
+msgid "The log has been saved."
+msgstr ""
+
+#: Controller/LogController.php:62;88
+msgid "The log could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LogController.php:108
+msgid "The log has been deleted."
+msgstr ""
+
+#: Controller/LogController.php:110
+msgid "The log could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoginController.php:31
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: Controller/LoginController.php:83;118
+msgid "The login has been saved."
+msgstr ""
+
+#: Controller/LoginController.php:86;121
+msgid "The login could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoginController.php:151
+msgid "The login has been deleted."
+msgstr ""
+
+#: Controller/LoginController.php:153
+msgid "The login could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoginController.php:186
+msgid "The cadastro has been saved."
+msgstr ""
+
+#: Controller/LoginController.php:189
+msgid "The cadastro could not be saved. erro na permissao."
+msgstr ""
+
+#: Controller/LoginController.php:191
+msgid "The cadastro could not be saved. associado nao encontrado."
+msgstr ""
+
+#: Controller/MensalidadeController.php:204;251
+msgid "The mensalidade has been saved."
+msgstr ""
+
+#: Controller/MensalidadeController.php:207;254
+msgid "The mensalidade could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MensalidadeController.php:289
+msgid "The mensalidade has been deleted."
+msgstr ""
+
+#: Controller/MensalidadeController.php:291
+msgid "The mensalidade could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MensalidadeController.php:344
+msgid "Mensalidades criadas."
+msgstr ""
+
+#: Controller/MensalidadeController.php:347
+msgid "Mensalidades nao foram criadas."
+msgstr ""
+
+#: Controller/PagamentosController.php:55;80
+msgid "The pagamento has been saved."
+msgstr ""
+
+#: Controller/PagamentosController.php:58;83
+msgid "The pagamento could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagamentosController.php:102
+msgid "The pagamento has been deleted."
+msgstr ""
+
+#: Controller/PagamentosController.php:104
+msgid "The pagamento could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PermissoesController.php:69;97
+msgid "The permisso has been saved."
+msgstr ""
+
+#: Controller/PermissoesController.php:72;100
+msgid "The permisso could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PermissoesController.php:122
+msgid "The permisso has been deleted."
+msgstr ""
+
+#: Controller/PermissoesController.php:124
+msgid "The permisso could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PlanoController.php:55;80
+msgid "The plano has been saved."
+msgstr ""
+
+#: Controller/PlanoController.php:58;83
+msgid "The plano could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PlanoController.php:102
+msgid "The plano has been deleted."
+msgstr ""
+
+#: Controller/PlanoController.php:104
+msgid "The plano could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TimeController.php:55;80
+msgid "The time has been saved."
+msgstr ""
+
+#: Controller/TimeController.php:58;83
+msgid "The time could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TimeController.php:102
+msgid "The time has been deleted."
+msgstr ""
+
+#: Controller/TimeController.php:104
+msgid "The time could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TryoutController.php:156
+msgid "Candidato migrado para Associado com sucesso!"
+msgstr ""
+
+#: Controller/TryoutController.php:159
+msgid "The candidato could not be migrated. Please, try again."
+msgstr ""
+
+#: Template/Associados/add.ctp:3
+#: Template/Associados/edit.ctp:3
+#: Template/Associados/index.ctp:3;26
+#: Template/Associados/myself.ctp:3
+#: Template/Associados/old_view.ctp:3
+#: Template/Associados/view.ctp:3
+#: Template/Equipamentos/add.ctp:5
+#: Template/Equipamentos/edit.ctp:4
+#: Template/Equipamentos/index.ctp:3;25
+#: Template/Equipamentos/view.ctp:3
+#: Template/Inventario/add.ctp:4
+#: Template/Inventario/edit.ctp:4
+#: Template/Inventario/index.ctp:3;30
+#: Template/Inventario/view.ctp:3
+#: Template/Log/add.ctp:3
+#: Template/Log/edit.ctp:3
+#: Template/Log/index.ctp:3;18
+#: Template/Log/view.ctp:3
+#: Template/Login/add.ctp:3
+#: Template/Login/edit.ctp:3
+#: Template/Login/index.ctp:3;18
+#: Template/Login/view.ctp:3
+#: Template/Mensalidade/index.ctp:34
+#: Template/Mensalidade/oldview.ctp:3
+#: Template/Mensalidade/testview.ctp:3;80
+#: Template/Pagamentos/add.ctp:3
+#: Template/Pagamentos/edit.ctp:3
+#: Template/Pagamentos/index.ctp:3;17
+#: Template/Pagamentos/view.ctp:3;42
+#: Template/Perfil/add.ctp:3
+#: Template/Perfil/edit.ctp:3
+#: Template/Perfil/equip.ctp:4;41
+#: Template/Perfil/index.ctp:3
+#: Template/Perfil/inve.ctp:22
+#: Template/Perfil/lista.ctp:3;41
+#: Template/Perfil/mens.ctp:3
+#: Template/Perfil/myself.ctp:3
+#: Template/Perfil/old_view.ctp:3
+#: Template/Perfil/view.ctp:15
+#: Template/Permissoes/add.ctp:3
+#: Template/Permissoes/edit.ctp:3
+#: Template/Permissoes/index.ctp:3;24
+#: Template/Permissoes/view.ctp:3
+#: Template/Plano/add.ctp:3
+#: Template/Plano/edit.ctp:3
+#: Template/Plano/index.ctp:3;16
+#: Template/Plano/view.ctp:3
+#: Template/Time/add.ctp:3
+#: Template/Time/edit.ctp:3
+#: Template/Time/index.ctp:3;14
+#: Template/Time/view.ctp:3
+#: Template/Tryout/add.ctp:3
+#: Template/Tryout/edit.ctp:3
+#: Template/Tryout/index.ctp:3;26
+#: Template/Tryout/myself.ctp:3
+#: Template/Tryout/old_view.ctp:3
+#: Template/Tryout/view.ctp:3
+msgid "Actions"
+msgstr ""
+
+#: Template/Associados/add.ctp:4
+#: Template/Associados/edit.ctp:10
+#: Template/Associados/myself.ctp:6
+#: Template/Associados/old_view.ctp:6
+#: Template/Associados/view.ctp:6
+#: Template/Inventario/add.ctp:8
+#: Template/Inventario/edit.ctp:14
+#: Template/Inventario/index.ctp:7
+#: Template/Inventario/view.ctp:10
+#: Template/Mensalidade/oldview.ctp:8
+#: Template/Perfil/add.ctp:4
+#: Template/Perfil/myself.ctp:6
+#: Template/Perfil/old_view.ctp:6
+#: Template/Tryout/add.ctp:4
+#: Template/Tryout/edit.ctp:10
+#: Template/Tryout/myself.ctp:6
+#: Template/Tryout/old_view.ctp:6
+#: Template/Tryout/view.ctp:6
+msgid "List Associados"
+msgstr ""
+
+#: Template/Associados/add.ctp:10
+#: Template/Perfil/add.ctp:10
+#: Template/Tryout/add.ctp:10
+msgid "Add Associado"
+msgstr ""
+
+#: Template/Associados/add.ctp:59
+#: Template/Associados/edit.ctp:62
+#: Template/Equipamentos/add.ctp:22
+#: Template/Equipamentos/edit.ctp:27
+#: Template/Inventario/add.ctp:24
+#: Template/Inventario/edit.ctp:31
+#: Template/Log/add.ctp:18
+#: Template/Log/edit.ctp:24
+#: Template/Login/add.ctp:27
+#: Template/Login/cadastro.ctp:17
+#: Template/Login/edit.ctp:34
+#: Template/Login/tryout.ctp:53
+#: Template/Mensalidade/add.ctp:33
+#: Template/Mensalidade/edit.ctp:32
+#: Template/Mensalidade/gera.ctp:79;93
+#: Template/Mensalidade/testview.ctp:104
+#: Template/Pagamentos/add.ctp:18
+#: Template/Pagamentos/edit.ctp:24
+#: Template/Perfil/add.ctp:48
+#: Template/Perfil/edit.ctp:73
+#: Template/Perfil/equip.ctp:82
+#: Template/Perfil/inve.ctp:49
+#: Template/Permissoes/add.ctp:17
+#: Template/Permissoes/edit.ctp:23
+#: Template/Plano/add.ctp:17
+#: Template/Plano/edit.ctp:23
+#: Template/Time/add.ctp:15
+#: Template/Time/edit.ctp:21
+#: Template/Tryout/add.ctp:59
+#: Template/Tryout/edit.ctp:62
+msgid "Submit"
+msgstr ""
+
+#: Template/Associados/edit.ctp:5
+#: Template/Associados/index.ctp:42
+#: Template/Equipamentos/edit.ctp:6
+#: Template/Equipamentos/index.ctp:39
+#: Template/Inventario/edit.ctp:6
+#: Template/Inventario/index.ctp:48
+#: Template/Log/edit.ctp:5
+#: Template/Log/index.ctp:33
+#: Template/Login/edit.ctp:5
+#: Template/Login/index.ctp:33
+#: Template/Mensalidade/testview.ctp:100
+#: Template/Pagamentos/edit.ctp:5
+#: Template/Pagamentos/index.ctp:29
+#: Template/Pagamentos/view.ctp:58
+#: Template/Perfil/equip.ctp:57
+#: Template/Permissoes/edit.ctp:5
+#: Template/Permissoes/index.ctp:37
+#: Template/Plano/edit.ctp:5
+#: Template/Plano/index.ctp:29
+#: Template/Time/edit.ctp:5
+#: Template/Time/index.ctp:25
+#: Template/Tryout/edit.ctp:5
+#: Template/Tryout/index.ctp:43
+msgid "Delete"
+msgstr ""
+
+#: Template/Associados/edit.ctp:7
+#: Template/Associados/index.ctp:42
+#: Template/Associados/myself.ctp:5
+#: Template/Associados/old_view.ctp:5
+#: Template/Associados/view.ctp:5
+#: Template/Equipamentos/edit.ctp:8
+#: Template/Equipamentos/index.ctp:39
+#: Template/Equipamentos/view.ctp:5
+#: Template/Inventario/edit.ctp:8
+#: Template/Inventario/index.ctp:48
+#: Template/Inventario/view.ctp:5
+#: Template/Log/edit.ctp:7
+#: Template/Log/index.ctp:33
+#: Template/Log/view.ctp:5
+#: Template/Login/edit.ctp:7
+#: Template/Login/index.ctp:33
+#: Template/Login/view.ctp:5
+#: Template/Mensalidade/oldview.ctp:5
+#: Template/Mensalidade/testview.ctp:100
+#: Template/Pagamentos/edit.ctp:7
+#: Template/Pagamentos/index.ctp:29
+#: Template/Pagamentos/view.ctp:5;58
+#: Template/Perfil/equip.ctp:57
+#: Template/Perfil/myself.ctp:5
+#: Template/Perfil/old_view.ctp:5
+#: Template/Permissoes/edit.ctp:7
+#: Template/Permissoes/index.ctp:37
+#: Template/Permissoes/view.ctp:5
+#: Template/Plano/edit.ctp:7
+#: Template/Plano/index.ctp:29
+#: Template/Plano/view.ctp:5
+#: Template/Time/edit.ctp:7
+#: Template/Time/index.ctp:25
+#: Template/Time/view.ctp:5
+#: Template/Tryout/edit.ctp:7
+#: Template/Tryout/index.ctp:43
+#: Template/Tryout/myself.ctp:5
+#: Template/Tryout/old_view.ctp:5
+#: Template/Tryout/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Associados/edit.ctp:16
+#: Template/Associados/myself.ctp:4
+#: Template/Associados/old_view.ctp:4
+#: Template/Associados/view.ctp:4
+#: Template/Perfil/edit.ctp:25
+#: Template/Perfil/myself.ctp:4
+#: Template/Perfil/old_view.ctp:4
+#: Template/Tryout/edit.ctp:16
+#: Template/Tryout/myself.ctp:4
+#: Template/Tryout/old_view.ctp:4
+#: Template/Tryout/view.ctp:4
+msgid "Edit Associado"
+msgstr ""
+
+#: Template/Associados/index.ctp:4
+#: Template/Associados/myself.ctp:7
+#: Template/Associados/old_view.ctp:7
+#: Template/Associados/view.ctp:7
+#: Template/Inventario/add.ctp:9
+#: Template/Inventario/edit.ctp:15
+#: Template/Inventario/index.ctp:8
+#: Template/Inventario/view.ctp:11
+#: Template/Mensalidade/oldview.ctp:9
+#: Template/Perfil/myself.ctp:7
+#: Template/Perfil/old_view.ctp:7
+#: Template/Tryout/index.ctp:4
+#: Template/Tryout/myself.ctp:7
+#: Template/Tryout/old_view.ctp:7
+#: Template/Tryout/view.ctp:7
+msgid "New Associado"
+msgstr ""
+
+#: Template/Associados/index.ctp:8
+#: Template/Perfil/lista.ctp:23
+msgid "Associados"
+msgstr ""
+
+#: Template/Associados/index.ctp:13
+#: Template/Equipamentos/index.ctp:13
+#: Template/Inventario/index.ctp:17
+#: Template/Mensalidade/index.ctp:23
+#: Template/Mensalidade/lista.ctp:23
+#: Template/Perfil/equip.ctp:29
+#: Template/Perfil/lista.ctp:28
+#: Template/Permissoes/index.ctp:13
+#: Template/Tryout/index.ctp:13
+msgid "Filtrar"
+msgstr ""
+
+#: Template/Associados/index.ctp:25
+#: Template/Associados/old_view.ctp:114
+#: Template/Mensalidade/index.ctp:31
+#: Template/Perfil/lista.ctp:40
+#: Template/Perfil/old_view.ctp:114
+#: Template/Time/index.ctp:8
+#: Template/Tryout/index.ctp:25
+#: Template/Tryout/old_view.ctp:114
+msgid "Time"
+msgstr ""
+
+#: Template/Associados/index.ctp:31
+#: Template/Mensalidade/gera.ctp:25
+#: Template/Mensalidade/index.ctp:39
+#: Template/Mensalidade/testview.ctp:26
+#: Template/Mensalidade/view.ctp:34
+#: Template/Perfil/lista.ctp:46
+#: Template/Perfil/mens.ctp:39
+#: Template/Tryout/index.ctp:31
+msgid "AlliGirl"
+msgstr ""
+
+#: Template/Associados/index.ctp:31
+#: Template/Mensalidade/gera.ctp:25
+#: Template/Mensalidade/index.ctp:39
+#: Template/Mensalidade/testview.ctp:26
+#: Template/Mensalidade/view.ctp:34
+#: Template/Perfil/lista.ctp:46
+#: Template/Perfil/mens.ctp:39
+#: Template/Tryout/index.ctp:31
+msgid "AlliBoy"
+msgstr ""
+
+#: Template/Associados/index.ctp:40
+#: Template/Equipamentos/index.ctp:37
+#: Template/Inventario/index.ctp:46
+#: Template/Log/index.ctp:31
+#: Template/Login/index.ctp:31
+#: Template/Mensalidade/index.ctp:57
+#: Template/Pagamentos/index.ctp:27
+#: Template/Pagamentos/view.ctp:56
+#: Template/Perfil/equip.ctp:56
+#: Template/Perfil/lista.ctp:55
+#: Template/Permissoes/index.ctp:35
+#: Template/Plano/index.ctp:27
+#: Template/Time/index.ctp:23
+#: Template/Tryout/index.ctp:40
+msgid "View"
+msgstr ""
+
+#: Template/Associados/index.ctp:41
+#: Template/Equipamentos/index.ctp:38
+#: Template/Inventario/index.ctp:47
+#: Template/Log/index.ctp:32
+#: Template/Login/index.ctp:32
+#: Template/Mensalidade/testview.ctp:99
+#: Template/Pagamentos/index.ctp:28
+#: Template/Pagamentos/view.ctp:57
+#: Template/Permissoes/index.ctp:36
+#: Template/Plano/index.ctp:28
+#: Template/Time/index.ctp:24
+#: Template/Tryout/index.ctp:42
+msgid "Edit"
+msgstr ""
+
+#: Template/Associados/index.ctp:50
+#: Template/Equipamentos/index.ctp:47
+#: Template/Inventario/index.ctp:56
+#: Template/Log/index.ctp:41
+#: Template/Login/index.ctp:41
+#: Template/Mensalidade/index.ctp:65
+#: Template/Mensalidade/lista.ctp:90
+#: Template/Mensalidade/testview.ctp:110
+#: Template/Pagamentos/index.ctp:37
+#: Template/Perfil/equip.ctp:65
+#: Template/Perfil/lista.ctp:63
+#: Template/Perfil/mens.ctp:160
+#: Template/Permissoes/index.ctp:46
+#: Template/Plano/index.ctp:37
+#: Template/Time/index.ctp:33
+#: Template/Tryout/index.ctp:51
+msgid "previous"
+msgstr ""
+
+#: Template/Associados/index.ctp:52
+#: Template/Equipamentos/index.ctp:49
+#: Template/Inventario/index.ctp:58
+#: Template/Log/index.ctp:43
+#: Template/Login/index.ctp:43
+#: Template/Mensalidade/index.ctp:67
+#: Template/Mensalidade/lista.ctp:92
+#: Template/Mensalidade/testview.ctp:112
+#: Template/Pagamentos/index.ctp:39
+#: Template/Perfil/equip.ctp:67
+#: Template/Perfil/lista.ctp:65
+#: Template/Perfil/mens.ctp:162
+#: Template/Permissoes/index.ctp:48
+#: Template/Plano/index.ctp:39
+#: Template/Time/index.ctp:35
+#: Template/Tryout/index.ctp:53
+msgid "next"
+msgstr ""
+
+#: Template/Associados/myself.ctp:5
+#: Template/Associados/old_view.ctp:5
+#: Template/Associados/view.ctp:5
+#: Template/Perfil/myself.ctp:5
+#: Template/Perfil/old_view.ctp:5
+#: Template/Tryout/myself.ctp:5
+#: Template/Tryout/old_view.ctp:5
+#: Template/Tryout/view.ctp:5
+msgid "Delete Associado"
+msgstr ""
+
+#: Template/Associados/myself.ctp:29
+#: Template/Associados/old_view.ctp:14
+#: Template/Associados/view.ctp:29
+#: Template/Perfil/index.ctp:42
+#: Template/Perfil/myself.ctp:29
+#: Template/Perfil/old_view.ctp:14
+#: Template/Perfil/view.ctp:54
+#: Template/Time/view.ctp:14
+#: Template/Tryout/myself.ctp:29
+#: Template/Tryout/old_view.ctp:14
+#: Template/Tryout/view.ctp:29
+msgid "Nome"
+msgstr ""
+
+#: Template/Associados/myself.ctp:37
+#: Template/Associados/old_view.ctp:22
+#: Template/Associados/view.ctp:37
+#: Template/Mensalidade/testview.ctp:35
+#: Template/Mensalidade/view.ctp:43
+#: Template/Perfil/index.ctp:50
+#: Template/Perfil/mens.ctp:48
+#: Template/Perfil/myself.ctp:37
+#: Template/Perfil/old_view.ctp:22
+#: Template/Perfil/view.ctp:62
+#: Template/Tryout/myself.ctp:37
+#: Template/Tryout/old_view.ctp:22
+#: Template/Tryout/view.ctp:37
+msgid "Email"
+msgstr ""
+
+#: Template/Associados/myself.ctp:45
+#: Template/Associados/old_view.ctp:98
+#: Template/Associados/view.ctp:45
+#: Template/Perfil/index.ctp:58
+#: Template/Perfil/myself.ctp:45
+#: Template/Perfil/old_view.ctp:98
+#: Template/Perfil/view.ctp:70
+#: Template/Tryout/myself.ctp:45
+#: Template/Tryout/old_view.ctp:98
+#: Template/Tryout/view.ctp:45
+msgid "Apelido"
+msgstr ""
+
+#: Template/Associados/myself.ctp:53
+#: Template/Associados/old_view.ctp:82
+#: Template/Associados/view.ctp:53
+#: Template/Mensalidade/testview.ctp:43
+#: Template/Mensalidade/view.ctp:51
+#: Template/Perfil/index.ctp:66
+#: Template/Perfil/mens.ctp:56
+#: Template/Perfil/myself.ctp:53
+#: Template/Perfil/old_view.ctp:82
+#: Template/Perfil/view.ctp:78
+#: Template/Tryout/myself.ctp:53
+#: Template/Tryout/old_view.ctp:82
+#: Template/Tryout/view.ctp:53
+msgid "Celular"
+msgstr ""
+
+#: Template/Associados/myself.ctp:56
+#: Template/Associados/old_view.ctp:78
+#: Template/Associados/view.ctp:56
+#: Template/Mensalidade/testview.ctp:46
+#: Template/Mensalidade/view.ctp:54
+#: Template/Perfil/index.ctp:69
+#: Template/Perfil/mens.ctp:59
+#: Template/Perfil/myself.ctp:56
+#: Template/Perfil/old_view.ctp:78
+#: Template/Perfil/view.ctp:81
+#: Template/Tryout/myself.ctp:56
+#: Template/Tryout/old_view.ctp:78
+#: Template/Tryout/view.ctp:56
+msgid "Fixo"
+msgstr ""
+
+#: Template/Associados/myself.ctp:61
+#: Template/Associados/old_view.ctp:118
+#: Template/Associados/view.ctp:69
+#: Template/Mensalidade/testview.ctp:51
+#: Template/Mensalidade/view.ctp:59
+#: Template/Perfil/index.ctp:82
+#: Template/Perfil/mens.ctp:64
+#: Template/Perfil/myself.ctp:61
+#: Template/Perfil/old_view.ctp:118
+#: Template/Perfil/view.ctp:94
+#: Template/Tryout/myself.ctp:61
+#: Template/Tryout/old_view.ctp:118
+#: Template/Tryout/view.ctp:69
+msgid "Nascimento"
+msgstr ""
+
+#: Template/Associados/myself.ctp:64
+#: Template/Associados/old_view.ctp:122
+#: Template/Associados/view.ctp:72
+#: Template/Mensalidade/testview.ctp:54
+#: Template/Mensalidade/view.ctp:62
+#: Template/Perfil/index.ctp:85
+#: Template/Perfil/mens.ctp:67
+#: Template/Perfil/myself.ctp:64
+#: Template/Perfil/old_view.ctp:122
+#: Template/Perfil/view.ctp:97
+#: Template/Tryout/myself.ctp:64
+#: Template/Tryout/old_view.ctp:122
+#: Template/Tryout/view.ctp:72
+msgid "Data Acesso"
+msgstr ""
+
+#: Template/Associados/myself.ctp:74
+#: Template/Associados/old_view.ctp:30
+#: Template/Associados/view.ctp:90
+#: Template/Perfil/index.ctp:103
+#: Template/Perfil/myself.ctp:74
+#: Template/Perfil/old_view.ctp:30
+#: Template/Perfil/view.ctp:115
+#: Template/Tryout/myself.ctp:74
+#: Template/Tryout/old_view.ctp:30
+#: Template/Tryout/view.ctp:90
+msgid "Mae"
+msgstr ""
+
+#: Template/Associados/myself.ctp:79;109
+#: Template/Associados/old_view.ctp:26
+#: Template/Associados/view.ctp:98
+#: Template/Perfil/index.ctp:111
+#: Template/Perfil/myself.ctp:79;109
+#: Template/Perfil/old_view.ctp:26
+#: Template/Perfil/view.ctp:123
+#: Template/Tryout/myself.ctp:79;109
+#: Template/Tryout/old_view.ctp:26
+#: Template/Tryout/view.ctp:98
+msgid "Pai"
+msgstr ""
+
+#: Template/Associados/myself.ctp:86
+#: Template/Associados/old_view.ctp:34
+#: Template/Associados/view.ctp:108
+#: Template/Perfil/index.ctp:121
+#: Template/Perfil/myself.ctp:86
+#: Template/Perfil/old_view.ctp:34
+#: Template/Perfil/view.ctp:133
+#: Template/Tryout/myself.ctp:86
+#: Template/Tryout/old_view.ctp:34
+#: Template/Tryout/view.ctp:108
+msgid "Naturalidade"
+msgstr ""
+
+#: Template/Associados/myself.ctp:89
+#: Template/Associados/old_view.ctp:38
+#: Template/Associados/view.ctp:111
+#: Template/Perfil/index.ctp:124
+#: Template/Perfil/myself.ctp:89
+#: Template/Perfil/old_view.ctp:38
+#: Template/Perfil/view.ctp:136
+#: Template/Tryout/myself.ctp:89
+#: Template/Tryout/old_view.ctp:38
+#: Template/Tryout/view.ctp:111
+msgid "Nacionalidade"
+msgstr ""
+
+#: Template/Associados/myself.ctp:94
+#: Template/Associados/old_view.ctp:46
+#: Template/Associados/view.ctp:116
+#: Template/Perfil/index.ctp:129
+#: Template/Perfil/myself.ctp:94
+#: Template/Perfil/old_view.ctp:46
+#: Template/Perfil/view.ctp:141
+#: Template/Tryout/myself.ctp:94
+#: Template/Tryout/old_view.ctp:46
+#: Template/Tryout/view.ctp:116
+msgid "Escolaridade"
+msgstr ""
+
+#: Template/Associados/myself.ctp:97
+#: Template/Associados/old_view.ctp:50
+#: Template/Associados/view.ctp:119
+#: Template/Perfil/index.ctp:132
+#: Template/Perfil/myself.ctp:97
+#: Template/Perfil/old_view.ctp:50
+#: Template/Perfil/view.ctp:144
+#: Template/Tryout/myself.ctp:97
+#: Template/Tryout/old_view.ctp:50
+#: Template/Tryout/view.ctp:119
+msgid "Superior"
+msgstr ""
+
+#: Template/Associados/myself.ctp:104
+#: Template/Associados/old_view.ctp:54
+#: Template/Associados/view.ctp:128
+#: Template/Perfil/index.ctp:141
+#: Template/Perfil/myself.ctp:104
+#: Template/Perfil/old_view.ctp:54
+#: Template/Perfil/view.ctp:151
+#: Template/Tryout/myself.ctp:104
+#: Template/Tryout/old_view.ctp:54
+#: Template/Tryout/view.ctp:128
+msgid "Endereco"
+msgstr ""
+
+#: Template/Associados/myself.ctp:104
+#: Template/Associados/old_view.ctp:66
+#: Template/Associados/view.ctp:128
+#: Template/Perfil/index.ctp:141
+#: Template/Perfil/myself.ctp:104
+#: Template/Perfil/old_view.ctp:66
+#: Template/Perfil/view.ctp:151
+#: Template/Tryout/myself.ctp:104
+#: Template/Tryout/old_view.ctp:66
+#: Template/Tryout/view.ctp:128
+msgid "Bairro"
+msgstr ""
+
+#: Template/Associados/myself.ctp:104
+#: Template/Associados/old_view.ctp:110
+#: Template/Associados/view.ctp:128
+#: Template/Perfil/index.ctp:141
+#: Template/Perfil/myself.ctp:104
+#: Template/Perfil/old_view.ctp:110
+#: Template/Perfil/view.ctp:151
+#: Template/Tryout/myself.ctp:104
+#: Template/Tryout/old_view.ctp:110
+#: Template/Tryout/view.ctp:128
+msgid "Cep"
+msgstr ""
+
+#: Template/Associados/myself.ctp:117
+#: Template/Associados/old_view.ctp:74
+#: Template/Associados/view.ctp:136
+#: Template/Perfil/index.ctp:149
+#: Template/Perfil/myself.ctp:117
+#: Template/Perfil/old_view.ctp:74
+#: Template/Perfil/view.ctp:159
+#: Template/Tryout/myself.ctp:117
+#: Template/Tryout/old_view.ctp:74
+#: Template/Tryout/view.ctp:136
+msgid "Cpf"
+msgstr ""
+
+#: Template/Associados/myself.ctp:120
+#: Template/Associados/old_view.ctp:106
+#: Template/Associados/view.ctp:139
+#: Template/Perfil/index.ctp:152
+#: Template/Perfil/myself.ctp:120
+#: Template/Perfil/old_view.ctp:106
+#: Template/Perfil/view.ctp:162
+#: Template/Tryout/myself.ctp:120
+#: Template/Tryout/old_view.ctp:106
+#: Template/Tryout/view.ctp:139
+msgid "Rg"
+msgstr ""
+
+#: Template/Associados/myself.ctp:128
+#: Template/Associados/old_view.ctp:90
+#: Template/Associados/view.ctp:158
+#: Template/Perfil/index.ctp:171
+#: Template/Perfil/myself.ctp:128
+#: Template/Perfil/old_view.ctp:90
+#: Template/Perfil/view.ctp:181
+#: Template/Tryout/myself.ctp:128
+#: Template/Tryout/old_view.ctp:90
+#: Template/Tryout/view.ctp:158
+msgid "Peso"
+msgstr ""
+
+#: Template/Associados/myself.ctp:131
+#: Template/Associados/old_view.ctp:86
+#: Template/Associados/view.ctp:161
+#: Template/Perfil/index.ctp:174
+#: Template/Perfil/myself.ctp:131
+#: Template/Perfil/old_view.ctp:86
+#: Template/Perfil/view.ctp:184
+#: Template/Tryout/myself.ctp:131
+#: Template/Tryout/old_view.ctp:86
+#: Template/Tryout/view.ctp:161
+msgid "Altura"
+msgstr ""
+
+#: Template/Associados/myself.ctp:134
+#: Template/Associados/old_view.ctp:94
+#: Template/Associados/view.ctp:164
+#: Template/Perfil/index.ctp:177
+#: Template/Perfil/myself.ctp:134
+#: Template/Perfil/old_view.ctp:94
+#: Template/Perfil/view.ctp:187
+#: Template/Tryout/myself.ctp:134
+#: Template/Tryout/old_view.ctp:94
+#: Template/Tryout/view.ctp:164
+msgid "Sangue"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:18
+#: Template/Perfil/old_view.ctp:18
+#: Template/Tryout/old_view.ctp:18
+msgid "Sobrenome"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:42
+#: Template/Perfil/old_view.ctp:42
+#: Template/Tryout/old_view.ctp:42
+msgid "Profissao"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:58
+#: Template/Perfil/old_view.ctp:58
+#: Template/Tryout/old_view.ctp:58
+msgid "Cidade"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:62
+#: Template/Perfil/old_view.ctp:62
+#: Template/Tryout/old_view.ctp:62
+msgid "Estado"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:70
+#: Template/Perfil/old_view.ctp:70
+#: Template/Tryout/old_view.ctp:70
+msgid "Rg Emissor"
+msgstr ""
+
+#: Template/Associados/old_view.ctp:102
+#: Template/Inventario/view.ctp:34
+#: Template/Log/view.ctp:26
+#: Template/Login/view.ctp:18
+#: Template/Mensalidade/oldview.ctp:30
+#: Template/Pagamentos/view.ctp:24;33
+#: Template/Perfil/old_view.ctp:102
+#: Template/Permissoes/view.ctp:22
+#: Template/Plano/view.ctp:18
+#: Template/Time/view.ctp:18
+#: Template/Tryout/old_view.ctp:102
+msgid "Id"
+msgstr ""
+
+#: Template/Associados/view.ctp:61
+#: Template/Perfil/index.ctp:74
+#: Template/Perfil/view.ctp:86
+#: Template/Tryout/view.ctp:61
+msgid "Contato de Emergencia"
+msgstr ""
+
+#: Template/Associados/view.ctp:64
+#: Template/Perfil/index.ctp:77
+#: Template/Perfil/view.ctp:89
+#: Template/Tryout/view.ctp:64
+msgid "Telefone Contato"
+msgstr ""
+
+#: Template/Associados/view.ctp:77
+#: Template/Mensalidade/testview.ctp:59
+#: Template/Mensalidade/view.ctp:67
+#: Template/Perfil/index.ctp:90
+#: Template/Perfil/mens.ctp:72
+#: Template/Perfil/view.ctp:102
+#: Template/Tryout/view.ctp:77
+msgid "Sexo"
+msgstr ""
+
+#: Template/Associados/view.ctp:80
+#: Template/Mensalidade/testview.ctp:62
+#: Template/Mensalidade/view.ctp:70
+#: Template/Perfil/index.ctp:93
+#: Template/Perfil/mens.ctp:75
+#: Template/Perfil/view.ctp:105
+#: Template/Tryout/view.ctp:80
+msgid "Numero"
+msgstr ""
+
+#: Template/Associados/view.ctp:121
+#: Template/Perfil/index.ctp:134
+#: Template/Tryout/view.ctp:121
+msgid "Data Formacao"
+msgstr ""
+
+#: Template/Associados/view.ctp:147
+#: Template/Perfil/index.ctp:160
+#: Template/Perfil/view.ctp:170
+#: Template/Tryout/view.ctp:147
+msgid "Plano de Saude"
+msgstr ""
+
+#: Template/Associados/view.ctp:150
+#: Template/Perfil/index.ctp:163
+#: Template/Perfil/view.ctp:173
+#: Template/Tryout/view.ctp:150
+msgid "Abrangencia"
+msgstr ""
+
+#: Template/Associados/view.ctp:168
+#: Template/Inventario/index.ctp:12
+#: Template/Perfil/edit.ctp:6
+#: Template/Perfil/equip.ctp:8
+#: Template/Perfil/index.ctp:7;181
+#: Template/Perfil/inve.ctp:26
+#: Template/Perfil/lista.ctp:6
+#: Template/Perfil/mens.ctp:7
+#: Template/Perfil/view.ctp:19;191
+#: Template/Tryout/view.ctp:168
+msgid "Inventario"
+msgstr ""
+
+#: Template/Associados/view.ctp:300
+#: Template/Perfil/index.ctp:313
+#: Template/Perfil/view.ctp:323
+#: Template/Tryout/view.ctp:300
+msgid "E"
+msgstr ""
+
+#: Template/Associados/view.ctp:301
+#: Template/Equipamentos/index.ctp:8
+#: Template/Perfil/index.ctp:314
+#: Template/Perfil/view.ctp:324
+#: Template/Tryout/view.ctp:301
+msgid "Equipamentos"
+msgstr ""
+
+#: Template/Associados/view.ctp:302
+#: Template/Inventario/view.ctp:26
+#: Template/Perfil/index.ctp:315
+#: Template/Perfil/view.ctp:325
+#: Template/Tryout/view.ctp:302
+msgid "Tamanho"
+msgstr ""
+
+#: Template/Equipamentos/add.ctp:6
+#: Template/Equipamentos/edit.ctp:11
+#: Template/Equipamentos/view.ctp:6
+#: Template/Inventario/add.ctp:6
+#: Template/Inventario/edit.ctp:12
+#: Template/Inventario/index.ctp:5
+#: Template/Inventario/view.ctp:8
+msgid "List Equipamentos"
+msgstr ""
+
+#: Template/Equipamentos/add.ctp:12
+msgid "Add Equipamento"
+msgstr ""
+
+#: Template/Equipamentos/edit.ctp:17
+#: Template/Equipamentos/view.ctp:4
+msgid "Edit Equipamento"
+msgstr ""
+
+#: Template/Equipamentos/index.ctp:4
+#: Template/Equipamentos/view.ctp:7
+#: Template/Inventario/add.ctp:7
+#: Template/Inventario/edit.ctp:13
+#: Template/Inventario/index.ctp:6
+#: Template/Inventario/view.ctp:9
+msgid "New Equipamento"
+msgstr ""
+
+#: Template/Equipamentos/view.ctp:5
+msgid "Delete Equipamento"
+msgstr ""
+
+#: Template/Inventario/add.ctp:5
+#: Template/Inventario/edit.ctp:11
+#: Template/Inventario/view.ctp:6
+msgid "List Inventario"
+msgstr ""
+
+#: Template/Inventario/add.ctp:15
+#: Template/Perfil/equip.ctp:73
+msgid "Add Inventario"
+msgstr ""
+
+#: Template/Inventario/add.ctp:20
+#: Template/Inventario/edit.ctp:27
+#: Template/Perfil/equip.ctp:78
+msgid "Usar cor padrao"
+msgstr ""
+
+#: Template/Inventario/edit.ctp:21
+#: Template/Inventario/view.ctp:4
+msgid "Edit Inventario"
+msgstr ""
+
+#: Template/Inventario/index.ctp:4
+#: Template/Inventario/view.ctp:7
+msgid "New Inventario"
+msgstr ""
+
+#: Template/Inventario/index.ctp:25
+#: Template/Pagamentos/view.ctp:16
+#: Template/Perfil/equip.ctp:37
+msgid "Tipo"
+msgstr ""
+
+#: Template/Inventario/view.ctp:5
+msgid "Delete Inventario"
+msgstr ""
+
+#: Template/Inventario/view.ctp:18
+msgid "Equipamento"
+msgstr ""
+
+#: Template/Inventario/view.ctp:22
+#: Template/Mensalidade/gera.ctp:54;69
+#: Template/Mensalidade/oldview.ctp:18
+#: Template/Mensalidade/testview.ctp:27
+#: Template/Mensalidade/view.ctp:35
+#: Template/Perfil/mens.ctp:40
+msgid "Associado"
+msgstr ""
+
+#: Template/Inventario/view.ctp:30
+msgid "Sobrecor"
+msgstr ""
+
+#: Template/Log/add.ctp:4
+#: Template/Log/edit.ctp:10
+#: Template/Log/view.ctp:6
+msgid "List Log"
+msgstr ""
+
+#: Template/Log/add.ctp:10
+msgid "Add Log"
+msgstr ""
+
+#: Template/Log/edit.ctp:16
+#: Template/Log/view.ctp:4
+msgid "Edit Log"
+msgstr ""
+
+#: Template/Log/index.ctp:4
+#: Template/Log/view.ctp:7
+msgid "New Log"
+msgstr ""
+
+#: Template/Log/index.ctp:8
+msgid "Log"
+msgstr ""
+
+#: Template/Log/view.ctp:5
+msgid "Delete Log"
+msgstr ""
+
+#: Template/Log/view.ctp:14
+#: Template/Permissoes/view.ctp:14
+msgid "Controller"
+msgstr ""
+
+#: Template/Log/view.ctp:18
+#: Template/Permissoes/view.ctp:18
+msgid "Action"
+msgstr ""
+
+#: Template/Log/view.ctp:22
+msgid "Info"
+msgstr ""
+
+#: Template/Log/view.ctp:30
+#: Template/Permissoes/view.ctp:26
+msgid "Login Id"
+msgstr ""
+
+#: Template/Login/add.ctp:4
+#: Template/Login/edit.ctp:10
+#: Template/Login/view.ctp:6
+msgid "List Login"
+msgstr ""
+
+#: Template/Login/add.ctp:10
+msgid "Add Login"
+msgstr ""
+
+#: Template/Login/cadastro.ctp:4
+msgid "Cadastro Associado"
+msgstr ""
+
+#: Template/Login/edit.ctp:16
+#: Template/Login/view.ctp:4
+msgid "Edit Login"
+msgstr ""
+
+#: Template/Login/index.ctp:4
+#: Template/Login/view.ctp:7
+msgid "New Login"
+msgstr ""
+
+#: Template/Login/index.ctp:8
+#: Template/Pages/gators.ctp:11
+msgid "Login"
+msgstr ""
+
+#: Template/Login/login.ctp:7
+#: Template/Pages/gators.ctp:7
+msgid "Please enter your username and password"
+msgstr ""
+
+#: Template/Login/login.ctp:11
+msgid "Cadastro"
+msgstr ""
+
+#: Template/Login/login.ctp:12
+msgid "Tryout"
+msgstr ""
+
+#: Template/Login/login.ctp:13
+msgid "Logar"
+msgstr ""
+
+#: Template/Login/tryout.ctp:4
+msgid "Candidato Tryout"
+msgstr ""
+
+#: Template/Login/view.ctp:5
+msgid "Delete Login"
+msgstr ""
+
+#: Template/Login/view.ctp:14
+msgid "User"
+msgstr ""
+
+#: Template/Login/view.ctp:22
+msgid "Ativo"
+msgstr ""
+
+#: Template/Login/view.ctp:26
+msgid "Id Associado"
+msgstr ""
+
+#: Template/Login/view.ctp:30
+msgid "Data Criacao"
+msgstr ""
+
+#: Template/Login/view.ctp:34
+msgid "Ultimo Login"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:3
+#: Template/Mensalidade/edit.ctp:3
+#: Template/Mensalidade/gera.ctp:3
+#: Template/Mensalidade/index.ctp:3;18
+#: Template/Mensalidade/lista.ctp:3;18
+#: Template/Mensalidade/mens.ctp:3;18
+#: Template/Mensalidade/testview.ctp:69
+#: Template/Mensalidade/view.ctp:3;114
+#: Template/Perfil/edit.ctp:10
+#: Template/Perfil/equip.ctp:11
+#: Template/Perfil/index.ctp:11
+#: Template/Perfil/inve.ctp:29
+#: Template/Perfil/lista.ctp:10
+#: Template/Perfil/mens.ctp:123
+#: Template/Perfil/view.ctp:23
+msgid "Mensalidades"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:4
+#: Template/Mensalidade/edit.ctp:4
+#: Template/Mensalidade/gera.ctp:4
+#: Template/Mensalidade/index.ctp:4
+#: Template/Mensalidade/lista.ctp:4
+#: Template/Mensalidade/mens.ctp:4
+#: Template/Mensalidade/view.ctp:4
+msgid "Por Associados"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:5
+#: Template/Mensalidade/edit.ctp:5
+#: Template/Mensalidade/gera.ctp:5
+#: Template/Mensalidade/index.ctp:5
+#: Template/Mensalidade/lista.ctp:5
+#: Template/Mensalidade/mens.ctp:5
+#: Template/Mensalidade/view.ctp:5
+msgid "Todas Mensalidades"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:6
+#: Template/Mensalidade/edit.ctp:6
+#: Template/Mensalidade/gera.ctp:6
+#: Template/Mensalidade/index.ctp:6
+#: Template/Mensalidade/lista.ctp:6
+#: Template/Mensalidade/mens.ctp:6
+#: Template/Mensalidade/view.ctp:6
+msgid "Gerar Mensalidades"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:7
+#: Template/Mensalidade/edit.ctp:7
+#: Template/Mensalidade/gera.ctp:7
+#: Template/Mensalidade/index.ctp:7
+#: Template/Mensalidade/lista.ctp:7
+#: Template/Mensalidade/mens.ctp:7
+#: Template/Mensalidade/view.ctp:7
+msgid "Listar Mensalidades"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:8
+#: Template/Mensalidade/edit.ctp:8
+#: Template/Mensalidade/gera.ctp:8
+#: Template/Mensalidade/index.ctp:8
+#: Template/Mensalidade/lista.ctp:8
+#: Template/Mensalidade/mens.ctp:8
+#: Template/Mensalidade/view.ctp:8
+msgid "Adicionar Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:9
+#: Template/Mensalidade/edit.ctp:9
+#: Template/Mensalidade/gera.ctp:9
+#: Template/Mensalidade/index.ctp:9
+#: Template/Mensalidade/lista.ctp:9
+#: Template/Mensalidade/mens.ctp:9
+#: Template/Mensalidade/view.ctp:9
+msgid "Planos"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:10
+#: Template/Mensalidade/edit.ctp:10
+#: Template/Mensalidade/gera.ctp:10
+#: Template/Mensalidade/index.ctp:10
+#: Template/Mensalidade/lista.ctp:10
+#: Template/Mensalidade/mens.ctp:10
+#: Template/Mensalidade/view.ctp:10
+msgid "Novo Plano"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:11
+#: Template/Mensalidade/edit.ctp:11
+#: Template/Mensalidade/gera.ctp:11
+#: Template/Mensalidade/index.ctp:11
+#: Template/Mensalidade/lista.ctp:11
+#: Template/Mensalidade/mens.ctp:11
+#: Template/Mensalidade/view.ctp:11
+msgid "Listar Planos"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:12;14
+#: Template/Mensalidade/edit.ctp:12;14
+#: Template/Mensalidade/gera.ctp:12;14
+#: Template/Mensalidade/index.ctp:12;14
+#: Template/Mensalidade/lista.ctp:12;14
+#: Template/Mensalidade/mens.ctp:12;14
+#: Template/Mensalidade/view.ctp:12;14
+msgid "Formas de Pagamento"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:13
+#: Template/Mensalidade/edit.ctp:13
+#: Template/Mensalidade/gera.ctp:13
+#: Template/Mensalidade/index.ctp:13
+#: Template/Mensalidade/lista.ctp:13
+#: Template/Mensalidade/mens.ctp:13
+#: Template/Mensalidade/view.ctp:13
+msgid "Nova Forma de Pagamento"
+msgstr ""
+
+#: Template/Mensalidade/add.ctp:20
+#: Template/Mensalidade/mens.ctp:40
+#: Template/Mensalidade/view.ctp:136
+msgid "Add Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/edit.ctp:20
+#: Template/Mensalidade/oldview.ctp:4
+msgid "Edit Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:51
+msgid "Associados que ja possuem mensalidade do mes de: "
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:55;70
+#: Template/Mensalidade/lista.ctp:69
+#: Template/Mensalidade/oldview.ctp:46
+#: Template/Mensalidade/view.ctp:100
+#: Template/Pagamentos/view.ctp:35
+#: Template/Perfil/mens.ctp:106
+msgid "Vencimento"
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:56;71
+msgid "Valor"
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:57;72
+#: Template/Plano/index.ctp:8
+msgid "Plano"
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:65
+msgid "Associados que terao mensalidade gerada para o mes de: "
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:84
+msgid "Gerar Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/gera.ctp:92
+msgid "Selecionar Todos"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:31
+msgid "Jan"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:32
+msgid "Fev"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:33
+msgid "Mar"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:34
+msgid "Abr"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:35
+msgid "Mai"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:36
+msgid "Jun"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:37
+msgid "Jul"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:38
+msgid "Ago"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:39
+msgid "Set"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:40
+msgid "Out"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:41
+msgid "Nov"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:42
+msgid "Dez"
+msgstr ""
+
+#: Template/Mensalidade/lista.ctp:76
+#: Template/Mensalidade/view.ctp:105
+#: Template/Perfil/mens.ctp:113
+msgid "Mensalidade nao gerada"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:5
+msgid "Delete Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:6
+#: Template/Pagamentos/add.ctp:5
+#: Template/Pagamentos/edit.ctp:11
+#: Template/Pagamentos/index.ctp:5
+#: Template/Pagamentos/view.ctp:8
+msgid "List Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:7
+#: Template/Pagamentos/add.ctp:6
+#: Template/Pagamentos/edit.ctp:12
+#: Template/Pagamentos/index.ctp:6
+#: Template/Pagamentos/view.ctp:9
+msgid "New Mensalidade"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:10
+#: Template/Pagamentos/add.ctp:4
+#: Template/Pagamentos/edit.ctp:10
+#: Template/Pagamentos/view.ctp:6
+msgid "List Pagamentos"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:11
+#: Template/Pagamentos/index.ctp:4
+#: Template/Pagamentos/view.ctp:7
+msgid "New Pagamento"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:22
+msgid "Pagamento"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:26
+#: Template/Pagamentos/view.ctp:41
+msgid "Observacoes"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:34
+#: Template/Pagamentos/view.ctp:37
+#: Template/Plano/view.ctp:26
+msgid "Valor Base"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:38
+#: Template/Pagamentos/view.ctp:38
+msgid "Desconto"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:42
+#: Template/Pagamentos/view.ctp:39
+msgid "Acressimo"
+msgstr ""
+
+#: Template/Mensalidade/oldview.ctp:50
+#: Template/Pagamentos/view.ctp:36
+msgid "Pago"
+msgstr ""
+
+#: Template/Mensalidade/testview.ctp:4
+#: Template/Perfil/edit.ctp:4
+#: Template/Perfil/equip.ctp:5
+#: Template/Perfil/index.ctp:4
+#: Template/Perfil/inve.ctp:23
+#: Template/Perfil/lista.ctp:4
+#: Template/Perfil/mens.ctp:4
+#: Template/Perfil/view.ctp:16
+msgid "Meu Perfil"
+msgstr ""
+
+#: Template/Mensalidade/testview.ctp:5
+#: Template/Perfil/equip.ctp:6
+#: Template/Perfil/index.ctp:5
+#: Template/Perfil/inve.ctp:24
+#: Template/Perfil/lista.ctp:5
+#: Template/Perfil/mens.ctp:5
+#: Template/Perfil/view.ctp:17
+msgid "Editar Perfil"
+msgstr ""
+
+#: Template/Mensalidade/testview.ctp:6
+#: Template/Perfil/edit.ctp:5
+#: Template/Perfil/equip.ctp:7
+#: Template/Perfil/index.ctp:6
+#: Template/Perfil/inve.ctp:25
+#: Template/Perfil/mens.ctp:6
+#: Template/Perfil/view.ctp:18
+msgid "Outros Associados"
+msgstr ""
+
+#: Template/Pagamentos/add.ctp:12
+msgid "Add Pagamento"
+msgstr ""
+
+#: Template/Pagamentos/edit.ctp:18
+#: Template/Pagamentos/view.ctp:4
+msgid "Edit Pagamento"
+msgstr ""
+
+#: Template/Pagamentos/index.ctp:10
+msgid "Pagamentos"
+msgstr ""
+
+#: Template/Pagamentos/view.ctp:5
+msgid "Delete Pagamento"
+msgstr ""
+
+#: Template/Pagamentos/view.ctp:20
+msgid "Descricao"
+msgstr ""
+
+#: Template/Pagamentos/view.ctp:29
+msgid "Related Mensalidade"
+msgstr ""
+
+#: Template/Pagamentos/view.ctp:34
+msgid "Associado Id"
+msgstr ""
+
+#: Template/Pagamentos/view.ctp:40
+msgid "Pagamento Id"
+msgstr ""
+
+#: Template/Pages/noauth.ctp:6
+msgid "Voce nao tem permissao para acessar este modulo"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:7
+#: Template/Perfil/index.ctp:8
+#: Template/Perfil/inve.ctp:27
+#: Template/Perfil/lista.ctp:7
+#: Template/Perfil/mens.ctp:8
+#: Template/Perfil/view.ctp:20
+msgid "Meus Equipamentos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:8
+#: Template/Perfil/equip.ctp:9;24
+#: Template/Perfil/index.ctp:9
+#: Template/Perfil/lista.ctp:8
+#: Template/Perfil/mens.ctp:9
+#: Template/Perfil/view.ctp:21
+msgid "Meu Inventario"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:9
+#: Template/Perfil/equip.ctp:10
+#: Template/Perfil/index.ctp:10
+#: Template/Perfil/inve.ctp:28
+#: Template/Perfil/lista.ctp:9
+#: Template/Perfil/mens.ctp:10
+#: Template/Perfil/view.ctp:22
+msgid "Financeiro"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:11
+#: Template/Perfil/equip.ctp:12
+#: Template/Perfil/index.ctp:12
+#: Template/Perfil/inve.ctp:30
+#: Template/Perfil/lista.ctp:11
+#: Template/Perfil/mens.ctp:11
+#: Template/Perfil/view.ctp:24
+msgid "Outros Pagamentos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:12
+#: Template/Perfil/equip.ctp:13
+#: Template/Perfil/index.ctp:13
+#: Template/Perfil/inve.ctp:31
+#: Template/Perfil/lista.ctp:12
+#: Template/Perfil/mens.ctp:12
+#: Template/Perfil/view.ctp:25
+msgid "Esportes"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:13
+#: Template/Perfil/equip.ctp:14
+#: Template/Perfil/index.ctp:14
+#: Template/Perfil/inve.ctp:32
+#: Template/Perfil/lista.ctp:13
+#: Template/Perfil/mens.ctp:13
+#: Template/Perfil/view.ctp:26
+msgid "Treinos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:14
+#: Template/Perfil/equip.ctp:15
+#: Template/Perfil/index.ctp:15
+#: Template/Perfil/inve.ctp:33
+#: Template/Perfil/lista.ctp:14
+#: Template/Perfil/mens.ctp:14
+#: Template/Perfil/view.ctp:27
+msgid "Jogos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:15
+#: Template/Perfil/equip.ctp:16
+#: Template/Perfil/index.ctp:16
+#: Template/Perfil/inve.ctp:34
+#: Template/Perfil/lista.ctp:15
+#: Template/Perfil/mens.ctp:15
+#: Template/Perfil/view.ctp:28
+msgid "Assiduidade"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:16
+#: Template/Perfil/equip.ctp:17
+#: Template/Perfil/index.ctp:17
+#: Template/Perfil/inve.ctp:35
+#: Template/Perfil/lista.ctp:16
+#: Template/Perfil/mens.ctp:16
+#: Template/Perfil/view.ctp:29
+msgid "Playbook"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:17
+#: Template/Perfil/equip.ctp:18
+#: Template/Perfil/index.ctp:18
+#: Template/Perfil/inve.ctp:36
+#: Template/Perfil/lista.ctp:17
+#: Template/Perfil/mens.ctp:17
+#: Template/Perfil/view.ctp:30
+msgid "Eventos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:18
+#: Template/Perfil/equip.ctp:19
+#: Template/Perfil/index.ctp:19
+#: Template/Perfil/inve.ctp:37
+#: Template/Perfil/lista.ctp:18
+#: Template/Perfil/mens.ctp:18
+#: Template/Perfil/view.ctp:31
+msgid "Cursos"
+msgstr ""
+
+#: Template/Perfil/edit.ctp:19
+#: Template/Perfil/equip.ctp:20
+#: Template/Perfil/index.ctp:20
+#: Template/Perfil/inve.ctp:38
+#: Template/Perfil/lista.ctp:19
+#: Template/Perfil/mens.ctp:19
+#: Template/Perfil/view.ctp:32
+msgid "Festas"
+msgstr ""
+
+#: Template/Perfil/inve.ctp:44
+msgid "Material Equipado"
+msgstr ""
+
+#: Template/Permissoes/add.ctp:4
+#: Template/Permissoes/edit.ctp:10
+#: Template/Permissoes/view.ctp:6
+msgid "List Permissoes"
+msgstr ""
+
+#: Template/Permissoes/add.ctp:10
+msgid "Add Permisso"
+msgstr ""
+
+#: Template/Permissoes/edit.ctp:16
+#: Template/Permissoes/view.ctp:4
+msgid "Edit Permisso"
+msgstr ""
+
+#: Template/Permissoes/index.ctp:4
+#: Template/Permissoes/view.ctp:7
+msgid "New Permisso"
+msgstr ""
+
+#: Template/Permissoes/index.ctp:8
+msgid "Permissoes"
+msgstr ""
+
+#: Template/Permissoes/view.ctp:5
+msgid "Delete Permisso"
+msgstr ""
+
+#: Template/Plano/add.ctp:4
+#: Template/Plano/edit.ctp:10
+#: Template/Plano/view.ctp:6
+msgid "List Plano"
+msgstr ""
+
+#: Template/Plano/add.ctp:10
+msgid "Add Plano"
+msgstr ""
+
+#: Template/Plano/edit.ctp:16
+#: Template/Plano/view.ctp:4
+msgid "Edit Plano"
+msgstr ""
+
+#: Template/Plano/index.ctp:4
+#: Template/Plano/view.ctp:7
+msgid "New Plano"
+msgstr ""
+
+#: Template/Plano/view.ctp:5
+msgid "Delete Plano"
+msgstr ""
+
+#: Template/Plano/view.ctp:14
+msgid "Nome Plano"
+msgstr ""
+
+#: Template/Plano/view.ctp:22
+msgid "Meses"
+msgstr ""
+
+#: Template/Time/add.ctp:4
+#: Template/Time/edit.ctp:10
+#: Template/Time/view.ctp:6
+msgid "List Time"
+msgstr ""
+
+#: Template/Time/add.ctp:10
+msgid "Add Time"
+msgstr ""
+
+#: Template/Time/edit.ctp:16
+#: Template/Time/view.ctp:4
+msgid "Edit Time"
+msgstr ""
+
+#: Template/Time/index.ctp:4
+#: Template/Time/view.ctp:7
+msgid "New Time"
+msgstr ""
+
+#: Template/Time/view.ctp:5
+msgid "Delete Time"
+msgstr ""
+
+#: Template/Tryout/index.ctp:8
+msgid "Candidatos - Tryout"
+msgstr ""
+
+#: Template/Tryout/index.ctp:41
+msgid "Aprovar"
+msgstr ""
+

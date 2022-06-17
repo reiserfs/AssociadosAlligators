@@ -1,0 +1,29 @@
+<?php
+namespace App\Controller;
+
+use App\Controller\AppController;
+use Cake\Core\Configure;
+use Cake\ORM\TableRegistry;
+
+/**
+ * Login Controller
+ *
+ * @property \App\Model\Table\LoginTable $Login
+ */
+class RHRelatorioController extends AppController
+{
+
+    /**
+     * Index method
+     *
+     * @return \Cake\Network\Response|null
+     */
+    public function index()
+    {
+        $this->paginate = ['contain' => ['Associados']];
+        $login = $this->paginate($this->Login);
+
+        $this->set(compact('login'));
+        $this->set('_serialize', ['login']);
+    }
+}

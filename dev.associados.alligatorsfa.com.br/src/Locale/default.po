@@ -1,0 +1,327 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-03-15 17:26-0300\n"
+"PO-Revision-Date: 2016-03-15 18:17-0300\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+
+#: Controller/AssociadosController.php:58;85
+msgid "The associado has been saved."
+msgstr "O associado foi salvo"
+
+#: Controller/AssociadosController.php:61;88
+msgid "The associado could not be saved. Please, try again."
+msgstr "O associado não pode ser salvo, tente novamente"
+
+#: Controller/AssociadosController.php:109
+msgid "The associado has been deleted."
+msgstr "O associado foi excluído"
+
+#: Controller/AssociadosController.php:111
+msgid "The associado could not be deleted. Please, try again."
+msgstr "O associado não pode ser excluído, tente novamente"
+
+#: Controller/LoginController.php:22
+msgid "Invalid username or password, try again"
+msgstr "Nome de usuário ou senha inválidos, tente novamente "
+
+#: Controller/LoginController.php:72;97
+msgid "The login has been saved."
+msgstr "O usuário foi salvo"
+
+#: Controller/LoginController.php:75;100
+msgid "The login could not be saved. Please, try again."
+msgstr "O usuário não pode ser salvo, tente novamente"
+
+#: Controller/LoginController.php:119
+msgid "The login has been deleted."
+msgstr "O usuário foi excluído"
+
+#: Controller/LoginController.php:121
+msgid "The login could not be deleted. Please, try again."
+msgstr "O usuário não pode ser excluído, tente novamente"
+
+#: Controller/TimeController.php:55;80
+msgid "The time has been saved."
+msgstr "O time foi salvo"
+
+#: Controller/TimeController.php:58;83
+msgid "The time could not be saved. Please, try again."
+msgstr "O time não pode ser salvo, tente novamente"
+
+#: Controller/TimeController.php:102
+msgid "The time has been deleted."
+msgstr "O time foi excluído"
+
+#: Controller/TimeController.php:104
+msgid "The time could not be deleted. Please, try again."
+msgstr "O time não pode ser excluído, tente novamente"
+
+#: Template/Associados/add.ctp:3 Template/Associados/edit.ctp:3
+#: Template/Associados/index.ctp:3;18 Template/Associados/old_view.ctp:3
+#: Template/Associados/view.ctp:3 Template/Login/add.ctp:3
+#: Template/Login/edit.ctp:3 Template/Login/index.ctp:3;18
+#: Template/Login/view.ctp:3 Template/Time/add.ctp:3 Template/Time/edit.ctp:3
+#: Template/Time/index.ctp:3;14 Template/Time/view.ctp:3
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Associados/add.ctp:4 Template/Associados/edit.ctp:10
+#: Template/Associados/old_view.ctp:6 Template/Associados/view.ctp:6
+msgid "List Associados"
+msgstr "Associados"
+
+#: Template/Associados/add.ctp:10
+msgid "Add Associado"
+msgstr "Novo Associado"
+
+#: Template/Associados/add.ctp:46 Template/Associados/edit.ctp:51
+#: Template/Login/add.ctp:20 Template/Login/edit.ctp:26
+#: Template/Time/add.ctp:15 Template/Time/edit.ctp:21
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Associados/edit.ctp:5 Template/Associados/index.ctp:33
+#: Template/Login/edit.ctp:5 Template/Login/index.ctp:33
+#: Template/Time/edit.ctp:5 Template/Time/index.ctp:25
+msgid "Delete"
+msgstr "Excluir"
+
+#: Template/Associados/edit.ctp:7 Template/Associados/index.ctp:33
+#: Template/Associados/old_view.ctp:5 Template/Associados/view.ctp:5
+#: Template/Login/edit.ctp:7 Template/Login/index.ctp:33
+#: Template/Login/view.ctp:5 Template/Time/edit.ctp:7
+#: Template/Time/index.ctp:25 Template/Time/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem certeza que deseja excluir # {0}?"
+
+#: Template/Associados/edit.ctp:16 Template/Associados/old_view.ctp:4
+#: Template/Associados/view.ctp:4
+msgid "Edit Associado"
+msgstr "Editar Associado"
+
+#: Template/Associados/index.ctp:4 Template/Associados/old_view.ctp:7
+#: Template/Associados/view.ctp:7
+msgid "New Associado"
+msgstr "Novo Associado"
+
+#: Template/Associados/index.ctp:8
+msgid "Associados"
+msgstr "Associados"
+
+#: Template/Associados/index.ctp:31 Template/Login/index.ctp:31
+#: Template/Time/index.ctp:23
+msgid "View"
+msgstr "Visualizar"
+
+#: Template/Associados/index.ctp:32 Template/Login/index.ctp:32
+#: Template/Time/index.ctp:24
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Associados/index.ctp:41 Template/Login/index.ctp:41
+#: Template/Time/index.ctp:33
+msgid "previous"
+msgstr "Anterior"
+
+#: Template/Associados/index.ctp:43 Template/Login/index.ctp:43
+#: Template/Time/index.ctp:35
+msgid "next"
+msgstr "Próximo"
+
+#: Template/Associados/old_view.ctp:5 Template/Associados/view.ctp:5
+msgid "Delete Associado"
+msgstr "Excluir Associado"
+
+#: Template/Associados/old_view.ctp:14 Template/Associados/view.ctp:22
+#: Template/Time/view.ctp:14
+msgid "Nome"
+msgstr "Nome"
+
+#: Template/Associados/old_view.ctp:18
+msgid "Sobrenome"
+msgstr "Sobrenome"
+
+#: Template/Associados/old_view.ctp:22 Template/Associados/view.ctp:30
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/Associados/old_view.ctp:26 Template/Associados/view.ctp:72;102
+msgid "Pai"
+msgstr "Pai"
+
+#: Template/Associados/old_view.ctp:30 Template/Associados/view.ctp:67
+msgid "Mae"
+msgstr "Mãe"
+
+#: Template/Associados/old_view.ctp:34 Template/Associados/view.ctp:79
+msgid "Naturalidade"
+msgstr "Naturalidade"
+
+#: Template/Associados/old_view.ctp:38 Template/Associados/view.ctp:82
+msgid "Nacionalidade"
+msgstr "Nacionalidade"
+
+#: Template/Associados/old_view.ctp:42
+msgid "Profissao"
+msgstr "Profissão"
+
+#: Template/Associados/old_view.ctp:46 Template/Associados/view.ctp:87
+msgid "Escolaridade"
+msgstr "Escolaridade"
+
+#: Template/Associados/old_view.ctp:50 Template/Associados/view.ctp:90
+msgid "Superior"
+msgstr "Formação Superior"
+
+#: Template/Associados/old_view.ctp:54 Template/Associados/view.ctp:97
+msgid "Endereco"
+msgstr "Endereço"
+
+#: Template/Associados/old_view.ctp:58
+msgid "Cidade"
+msgstr "Cidade"
+
+#: Template/Associados/old_view.ctp:62
+msgid "Estado"
+msgstr "Estado"
+
+#: Template/Associados/old_view.ctp:66 Template/Associados/view.ctp:97
+msgid "Bairro"
+msgstr "Bairro"
+
+#: Template/Associados/old_view.ctp:70
+msgid "Rg Emissor"
+msgstr "Orgão Emissor"
+
+#: Template/Associados/old_view.ctp:74 Template/Associados/view.ctp:110
+msgid "Cpf"
+msgstr "CPF"
+
+#: Template/Associados/old_view.ctp:78 Template/Associados/view.ctp:49
+msgid "Fixo"
+msgstr "Telefone Fixo"
+
+#: Template/Associados/old_view.ctp:82 Template/Associados/view.ctp:46
+msgid "Celular"
+msgstr "Telefone Celular"
+
+#: Template/Associados/old_view.ctp:86 Template/Associados/view.ctp:124
+msgid "Altura"
+msgstr "Altura"
+
+#: Template/Associados/old_view.ctp:90 Template/Associados/view.ctp:121
+msgid "Peso"
+msgstr "Peso"
+
+#: Template/Associados/old_view.ctp:94 Template/Associados/view.ctp:127
+msgid "Sangue"
+msgstr "Tipo sanguíneo"
+
+#: Template/Associados/old_view.ctp:98 Template/Associados/view.ctp:38
+msgid "Apelido"
+msgstr "Apelido"
+
+#: Template/Associados/old_view.ctp:102 Template/Login/view.ctp:18
+#: Template/Time/view.ctp:18
+msgid "Id"
+msgstr "ID"
+
+#: Template/Associados/old_view.ctp:106 Template/Associados/view.ctp:113
+msgid "Rg"
+msgstr "Rg"
+
+#: Template/Associados/old_view.ctp:110 Template/Associados/view.ctp:97
+msgid "Cep"
+msgstr "Cep"
+
+#: Template/Associados/old_view.ctp:114 Template/Time/index.ctp:8
+msgid "Time"
+msgstr "Time"
+
+#: Template/Associados/old_view.ctp:118 Template/Associados/view.ctp:54
+msgid "Nascimento"
+msgstr "Data de Nascimento"
+
+#: Template/Associados/old_view.ctp:122 Template/Associados/view.ctp:57
+msgid "Data Acesso"
+msgstr "Data Acesso"
+
+#: Template/Login/add.ctp:4 Template/Login/edit.ctp:10
+#: Template/Login/view.ctp:6
+msgid "List Login"
+msgstr "Usuários"
+
+#: Template/Login/add.ctp:10
+msgid "Add Login"
+msgstr "Novo Usuário"
+
+#: Template/Login/edit.ctp:16 Template/Login/view.ctp:4
+msgid "Edit Login"
+msgstr "Editar Usuário"
+
+#: Template/Login/index.ctp:4 Template/Login/view.ctp:7
+msgid "New Login"
+msgstr "Novo Usuário"
+
+#: Template/Login/index.ctp:8 Template/Login/login.ctp:11
+msgid "Login"
+msgstr "Usuário"
+
+#: Template/Login/login.ctp:7
+msgid "Please enter your username and password"
+msgstr "Digite seu usuário e senha"
+
+#: Template/Login/view.ctp:5
+msgid "Delete Login"
+msgstr "Excluir Usuário"
+
+#: Template/Login/view.ctp:14
+msgid "User"
+msgstr "Usuário"
+
+#: Template/Login/view.ctp:22
+msgid "Ativo"
+msgstr "Ativo"
+
+#: Template/Login/view.ctp:26
+msgid "Id Associado"
+msgstr "Associado"
+
+#: Template/Login/view.ctp:30
+msgid "Data Criacao"
+msgstr "Data Criação"
+
+#: Template/Login/view.ctp:34
+msgid "Ultimo Login"
+msgstr "Ultimo Login"
+
+#: Template/Time/add.ctp:4 Template/Time/edit.ctp:10 Template/Time/view.ctp:6
+msgid "List Time"
+msgstr "Times"
+
+#: Template/Time/add.ctp:10
+msgid "Add Time"
+msgstr "Novo Time"
+
+#: Template/Time/edit.ctp:16 Template/Time/view.ctp:4
+msgid "Edit Time"
+msgstr "Editar Time"
+
+#: Template/Time/index.ctp:4 Template/Time/view.ctp:7
+msgid "New Time"
+msgstr "Novo Time"
+
+#: Template/Time/view.ctp:5
+msgid "Delete Time"
+msgstr "Excluir Time"

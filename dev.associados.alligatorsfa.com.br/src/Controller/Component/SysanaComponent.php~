@@ -1,0 +1,10 @@
+<?php
+namespace App\Controller\Component;
+use Cake\Controller\Component;
+
+class GlobalSysana extends Component
+{
+	public function globalconfig() {
+		return true;
+	}
+}
